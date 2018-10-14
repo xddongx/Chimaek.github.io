@@ -17,16 +17,17 @@ image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.ne
  
 ### ***학력***
   * #### [제주광양초등학교](http://jeju-gwyang.jje.es.kr/) 졸업
-
+<br>
 
   * #### [제주제일중학교](http://jeil.jje.ms.kr/) 졸업
 
-
+<br>
   * #### [제주영주고등학교](http://jyj.jje.hs.kr/) 졸업
 
-
+<br>
   * #### [제주대학교 컴퓨터공학](http://ce.jejunu.ac.kr/) 재학
-  
+<br>  
+
 ***
    
 ### ***소개*** 
@@ -45,8 +46,7 @@ image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.ne
 
 ### ***사용하는 언어 및 툴***
 
-
-
+<br>
 * 프로그래밍 언어: JAVA, C , Python
 
 * 툴: Atom, Intelli J, MS vs code, Dev c++, PYcham , Android Studio
@@ -55,6 +55,7 @@ image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.ne
 
 
 ### ***배우고 있는 언어 및 프레임워크***
+<br>
 
 * 프로그래밍 언어: Kotlin,JavaScript
 
@@ -63,9 +64,9 @@ image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.ne
 ***
 
 ### ***Fork***
+<br>
 
-
-* [Tensorflow](https://github.com/Chimaek/tensorflow)
+* ***[Tensorflow](https://github.com/Chimaek/tensorflow)***
 
  >***An Open Source Machine Learning Framework for Everyone***
  <br>
@@ -74,7 +75,7 @@ image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.ne
 기계학습 라이브러리(프레임 워크)중에서 제일 유명하고, 많이 쓰이며, 점유율 1위인 텐서플로우입니다. 구글에서 만든 라이브러리 만큼 매우 유용하며 학생들에게도 입문용으로 많이 쓰입니다. 저 또한 이 라이브러리를 툴에 import하여 쓰고 있으며 수학적인 부문이 있어 어렵긴 하지만 데이터를 입력하여 제가 원하는 값이 나오는게 신기하며 재미있습니다.
 
 
-* [React](https://github.com/Chimaek/react)
+* ***[React](https://github.com/Chimaek/react)***
 
  >***A declarative, efficient, and flexible JavaScript library for building user interfaces.***
  <br>
