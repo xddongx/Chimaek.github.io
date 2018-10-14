@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "제주대학교에 노루(?)가 뛰어다니네?"
+title: "제주대학교에 노루(?)가 풀뜯어 먹는소리가 들리네?"
 date: 2018-07-20
 categories:
   - etc
