@@ -5,23 +5,24 @@ date: 2018-10-14
 categories:
   - 프로필
 description:
-image: https://github.com/Chimaek/Chimaek.github.io/blob/master/20120215001056_1.jpg
-image-sm: https://github.com/Chimaek/Chimaek.github.io/blob/master/20120215001056_1.jpg
+image: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400
+image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400
 ---
-# **김 승주 (Kim seung-ju)**
- ***
-![pg](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400)
- ***
+# **김승주 **
+**(Kim seung-ju)**
  
- ### ***학력***
+![pg](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400)
+ 
+ 
+  ***학력***
   * #### [제주광양초등학교](http://jeju-gwyang.jje.es.kr/) 졸업
   * #### [제주제일중학교](http://jeil.jje.ms.kr/) 졸업
   * #### [제주영주고등학교](http://jyj.jje.hs.kr/) 졸업
   * #### [제주대학교 컴퓨터공학](http://ce.jejunu.ac.kr/) 재학
   
-   ***
+  
    
-  ### ***소개*** 
+   ***소개*** 
   
   KT에 다니시던 아버지 덕분에 최신 하드웨어들을 접하며 자연스럽게 컴퓨터쪽에 관심이 생겼습니다. 입학하였을때는 에너지공학과였지만 2학년때 컴퓨터공학   으로 전과하였습니다.
   
