@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "자기 소개"
-date: 2018-10-14
+title: "제대에 노루(?)가 뛰어다니네?"
+date: 2018-07-20
 categories:
-  - profile
+  - etc
 description:
 image: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400
 image-sm: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400
