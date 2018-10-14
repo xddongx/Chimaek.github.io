@@ -8,14 +8,14 @@ description:
 url: "https://chimaek.github.io/"
 baseurl: ""
 twitter_username: 
-default_img: /p_1.jpg
+default_img: p_1.png
 
 # Profile settings
 name: 김 승주
-profile_img: p_1.jpg
+profile_img: p_1.png
 profile: 소프트웨어 엔지니어를 꿈꾸는 아저씨 입니다.<br> 제주대 컴퓨터공학 재학중입니다.
 social: 
-  github: p_1.jpg
+  github: https://github.com/Chimaek/
 
 # Build settings
 markdown: kramdown
