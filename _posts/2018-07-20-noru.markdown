@@ -9,15 +9,15 @@ image: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jp
 image-sm: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg
 ---
 
-*** 으앗! 야생의 노루(?)가 출현했다! ***
+### *** 으앗! 야생의 노루(?)가 출현했다! ***
  
 ![pg](https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg)
  
 ***
 
-### ***경험담*** 
+### ***경험담***
+
 <br>
-  
 너를 처음 만나러 가는 순간 나는 기대감과 떨림이 있었지.
 <br>
 하지만 너와 나는 서로를 본 순간 10초간 얼어 붙었지.
