@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "제주대학교에 노루(?)가 풀뜯어 먹는소리가 들리네?"
+title: "으앗! 야생의 노루(?)가 출현했다!"
 date: 2018-07-20
 categories:
   - etc
@@ -9,10 +9,14 @@ image: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jp
 image-sm: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg
 ---
 
-### ***으앗! 야생의 노루(?)가 출현했다!***
  
 ![pg](https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg)
  
+***
+### ***장소***
+<br>
+공과대학 4호관 옆 해양대학 4호관 앞 잔디밭
+
 ***
 
 ### ***경험담***
