@@ -14,8 +14,8 @@ default_img: https://github.com/Chimaek/Chimaek.github.io/blob/master/2012021500
 name: 김 승주
 profile_img: https://github.com/Chimaek/Chimaek.github.io/blob/master/20120215001056_1.jpg
 profile: 
-social: https://github.com/Chimaek/
-  github: 
+social: 
+  github: https://github.com/Chimaek/
 
 # Build settings
 markdown: kramdown
