@@ -11,7 +11,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
-navigation: https://chimaek.github.io/
+navigation: https://chimaek.github.io
  - title: Home
    url: /index.html
  - title: About
