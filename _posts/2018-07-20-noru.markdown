@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jp
 image-sm: https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg
 ---
 
-### *** 으앗! 야생의 노루(?)가 출현했다! ***
+### ***으앗! 야생의 노루(?)가 출현했다!***
  
 ![pg](https://raw.githubusercontent.com/Chimaek/Chimaek.github.io/master/p_2.jpg)
  
