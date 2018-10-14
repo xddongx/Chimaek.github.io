@@ -12,9 +12,8 @@ default_img: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver
 
 # Profile settings
 name: 김 승주
-profile_img: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130311_100%2Ftasunkiya7_1362929500347x1jn9_JPEG%2F1362929499486_BDrRyxSCUAAyYoO.jpg&type=b400
-profile: 소프트웨어 엔지니어를 꿈꾸는 아저씨 입니다.
-제주대학교 컴퓨터공학 재학
+profile_img: p_1.jpg
+profile: 소프트웨어 엔지니어를 꿈꾸는 아저씨 입니다.제주대학교 컴퓨터공학 재학
 social: 
   github: https://github.com/Chimaek/
 
