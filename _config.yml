@@ -18,6 +18,7 @@ social:
   github: https://github.com/Chimaek/
 
 # Build settings
+include: ["_categories"]
 markdown: kramdown
 plugins:
   - jekyll-paginate
