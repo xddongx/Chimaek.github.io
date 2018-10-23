@@ -1,1 +1,0 @@
-Sitemap: http://jacobsalzberg.github.io/db/sitemap.xml
